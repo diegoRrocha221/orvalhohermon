@@ -1,0 +1,203 @@
+[28-Aug-2025 06:52:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 1)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 1, 4)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 06:57:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 1)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 1, 4)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:04:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:06:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:09:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:11:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:14:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:16:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:19:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:21:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:24:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:26:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:29:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:31:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:34:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:36:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:39:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:41:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:44:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:46:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:49:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:51:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:54:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:56:47 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 07:59:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 08:01:47 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 08:04:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 08:06:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
+[28-Aug-2025 08:09:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'diego780_orvalho.user_notifications' doesn't exist in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php:238
+Stack trace:
+#0 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(238): mysqli->prepare('SELECT * FROM u...')
+#1 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(78): getUserNotifications(Object(mysqli), 2)
+#2 /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php(23): getNotifications(Object(mysqli), 2, 1)
+#3 {main}
+  thrown in /home2/diego780/orvalhodohermon2966.webcoders.group/api/notifications.php on line 238
